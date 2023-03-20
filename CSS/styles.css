@@ -1,0 +1,27 @@
+body{
+  background-color: powderblue;
+  font-family: 'Lucida Sans', sans-serif;
+}
+hr{
+  border-style: dotted none none;
+  color: gray;
+  border-width:  thick;
+  width: 10%;
+}
+img{
+  width: 250px;
+}
+h1{
+  text-align: center;
+  color:#222831;
+  text-shadow: 5px 5px 10px #D92027;
+  font-family: "Montserrat";
+  opacity: 0.7;
+}
+h3{
+  color: #D92027;
+  font-family: "Montserrat";
+}
+a{
+  font-family: "Montserrat";
+}
